@@ -1,0 +1,9 @@
+{
+  "name": "looker-to-bi-app-migration",
+  "description": "Migrates one Looker dashboard to the Holidu BI App: usage and duplicate check, bi_gold source mapping, rebuild, validation against filtered Looker output, in-dashboard Migration Notes.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Thomas Freundt (BI)",
+    "email": "thomas.freundt@holidu.com"
+  }
+}

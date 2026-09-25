@@ -1,0 +1,14 @@
+{
+  "name": "holidu-bi-looker-migration",
+  "owner": {
+    "name": "Thomas Freundt (BI)",
+    "email": "thomas.freundt@holidu.com"
+  },
+  "plugins": [
+    {
+      "name": "looker-to-bi-app-migration",
+      "source": "./",
+      "description": "Migrates one Looker dashboard to the Holidu BI App (under test)."
+    }
+  ]
+}
